@@ -27,15 +27,19 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop View
-<img width="959" alt="image" src="https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor/assets/18396996/d4912469-947f-4717-b6ad-7b220977142b">
+<img width="719" alt="image" src="https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor/assets/18396996/26ee36d4-925b-4bbd-b886-0316bb013b6d">
+
+### Hover
+<img width="960" alt="image" src="https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor/assets/18396996/dc051dbc-cb32-4bc7-9371-4ae906181f02">
 
 #### Mobile View
-<img width="187" alt="image" src="https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor/assets/18396996/cbad536f-af5f-407b-bdf2-f75969564910">
+<img width="213" alt="image" src="https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor/assets/18396996/1d0ff9a5-f43b-4bff-a326-494fd0ea1747">
+
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/sriram23/Blog-Preview-Card-Frontend-Mentor)
-- Live Site URL: [Live site URL](https://blog-preview-card-sriram.vercel.app/)
+- Live Site URL: [Live site URL](https://sriram23.github.io/Blog-Preview-Card-Frontend-Mentor/)
 
 ## My process
 
